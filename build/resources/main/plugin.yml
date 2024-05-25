@@ -1,0 +1,5 @@
+name: LegendsSkins
+version: 2.0
+authors: [nevesbr6, shauuu_]
+
+main: dev.redelegends.skins.bukkit.Main
