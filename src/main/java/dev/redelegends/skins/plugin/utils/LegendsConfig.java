@@ -120,4 +120,7 @@ public class LegendsConfig {
       LOGGER = Core.LOGGER.getModule("CONFIG_UTILS");
       cache = new HashMap();
    }
+
+
+
 }

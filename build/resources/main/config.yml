@@ -12,7 +12,7 @@ database:
 
  sqlite:
   # Localização do arquivo do SQLite
-  arquivo: plugins/OlymSkins/skins.db
+  arquivo: plugins/LegendsSkins/skins.db
 
  mysql:
   # Host para acessar o MySQL

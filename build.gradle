@@ -58,3 +58,8 @@ processResources {
         expand props
     }
 }
+
+jar {
+    archiveBaseName.set('LegendsSkins')
+    archiveVersion.set('')
+}
